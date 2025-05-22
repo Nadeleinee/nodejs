@@ -1,0 +1,22 @@
+{
+  "name": "kiran",
+  "version": "1.0.0",
+  "description": "hello it's my packagge and it's amazing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Nadeleinee/nodejs.git"
+  },
+  "author": "Kiran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nadeleinee/nodejs/issues"
+  },
+  "homepage": "https://github.com/Nadeleinee/nodejs#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
